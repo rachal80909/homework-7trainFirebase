@@ -1,0 +1,12 @@
+.row {
+    background-color: white;
+    /* background-image: url(:searc) */
+    background-position: 10px 10 px;
+    padding-left: 40px;
+}
+
+.body {
+    border: 20 px;
+    padding-left: 20 px;
+    padding-top: 20 px
+}
